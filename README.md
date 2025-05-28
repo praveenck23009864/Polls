@@ -96,12 +96,12 @@ urlpatterns = [
 
 ## OUTPUT
 
-![Screenshot (5)](https://github.com/user-attachments/assets/2175abe7-5bff-4c15-94ec-0e23d27f23e6)
-![Screenshot (6)](https://github.com/user-attachments/assets/1ca47d17-46dc-4a9b-93b8-5d3f89a994d4)
-![Screenshot (7)](https://github.com/user-attachments/assets/ad52cf91-7f8e-4d5a-9310-53853e74b49f)
+![Screenshot 2025-05-27 154231](https://github.com/user-attachments/assets/58f34115-612a-4a9d-9d94-bd91b72ca68e)
+![Screenshot 2025-05-27 154300](https://github.com/user-attachments/assets/e4713b39-ffa6-4925-b08d-e8437ad6b379)
+![Screenshot 2025-05-27 154324](https://github.com/user-attachments/assets/cb40669c-00bb-4c7a-bf85-56970e9ed5fe)
 
 ## COURSERA GRADE
-![Screenshot (8)](https://github.com/user-attachments/assets/c9a91649-161f-467c-af3c-a1f128ded77c)
+[Coursera U0ZPCW3S9IBK.pdf](https://github.com/user-attachments/files/20481192/Coursera.U0ZPCW3S9IBK.pdf)
 
 
 ## RESULT
