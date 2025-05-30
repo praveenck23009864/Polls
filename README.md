@@ -101,7 +101,7 @@ urlpatterns = [
 ![Screenshot 2025-05-27 154324](https://github.com/user-attachments/assets/cb40669c-00bb-4c7a-bf85-56970e9ed5fe)
 
 ## COURSERA GRADE
-[Coursera U0ZPCW3S9IBK.pdf](https://github.com/user-attachments/files/20481192/Coursera.U0ZPCW3S9IBK.pdf)
+![image](https://github.com/user-attachments/assets/5761b209-f6e6-4a53-b161-0c3739536a35)
 
 
 ## RESULT
